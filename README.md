@@ -314,9 +314,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Sukesh Singla**  
 HR Analytics Specialist | Data Analyst
 
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐱 GitHub: [@your-username](https://github.com/your-username)
+- 📧 Email: ssingla25@gmail.com
+- 💼 LinkedIn: linkedin.com/in/sukesh-singla-667701a5
+- 🐱 GitHub: [@Sukesh1985](https://github.com/Sukesh1985)
 - 📍 Location: Delhi, India
 
 ---
